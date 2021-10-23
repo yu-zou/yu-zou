@@ -11,11 +11,14 @@
 
 <a href="https://github.com/yu-zou/yu-zou">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yu-zou&count_private=true&show_icons=true&theme=dracula"
-       alt="Yu's GitHub Stats" />
+       alt="Yu's GitHub Stats"
+       height="200"/>
 </a>
 
 <a href="https://github.com/yu-zou/yu-zou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-zou&theme=radical&layout=compact" alt="Yu's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-zou&theme=radical&layout=compact"
+       alt="Yu's GitHub Stats"
+       height="200"/>
 </a>
 
 ## 🗂️ Highlight Projects
