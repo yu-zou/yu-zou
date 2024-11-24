@@ -34,8 +34,3 @@
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yu-zou&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## 👨‍💻 This week, I spent my time on:
-
-[![Yu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BigHandsomeBee&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
