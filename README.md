@@ -24,11 +24,15 @@
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/yu-zou/DirectNVM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yu-zou&repo=DirectNVM&theme=radical" alt="DirectNVM" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yu-zou&repo=DirectNVM&theme=radical&show_owner=true" alt="DirectNVM" />
 </a>
 
 <a href="https://github.com/yu-zou/dram_sim_model">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yu-zou&repo=dram_sim_model&theme=radical" alt="dram_sim_model" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yu-zou&repo=dram_sim_model&theme=radical&show_owner=true" alt="dram_sim_model" />
+</a>
+
+<a href="https://github.com/yu-zou/bmw_suiyuchi_automation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yu-zou&repo=bmw_suiyuchi_automation&theme=radical&show_owner=true" alt="bmw_suiyuchi_automation" />
 </a>
 
 ## 🏆 GitHub Trophies
